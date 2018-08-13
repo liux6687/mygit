@@ -1,0 +1,74 @@
+{
+	"body": {
+		"bottomImgList": [{
+			"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201801/04163735ma9v.png",
+			"title": "7天宝介绍",
+			"url": "iqianjin://productSPDetail?iqjRouterParams=%7B%22planId%22%3A10517%2C%22sid%22%3A%22118d708d7b%22%7D",
+			"content": "每周调息 每周可转"
+		}, {
+			"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201801/04163633fw8j.png",
+			"title": "风险控制",
+			"url": "http://m.iqianjin.com/app/security/index.jsp",
+			"content": "迄今为止 如期履约"
+		}],
+		"defaultWeek": 23,
+		"iconDesc": "查看详情",
+		"iconList": [{
+			"key": "产品介绍",
+			"position": 1,
+			"url": "http://m.iqianjin.com/app/step.jsp",
+			"value": "每周调息 每周可转"
+		}, {
+			"key": "安全保障",
+			"position": 2,
+			"url": "https://m.iqianjin.com/app/security/index.jsp",
+			"value": "迄今为止如期履约"
+		}],
+		"iconUrl": "iqianjin://productSPDetail?iqjRouterParams=%7B%22planId%22%3A10517%2C%22sid%22%3A%22118d708d7b%22%7D",
+		"maxWeek": 37,
+		"safetyExplain": {
+			"expectInterestExplain": "预期年化结算利率不等于实际出借回报，以实际出借回报为准。",
+			"hxDepositoryTitle": "华夏银行资金存管",
+			"safetyExplain": "迄今为止如期履约",
+			"safetyExplainList": ["华夏银行资金存管", "网贷有风险出借需谨慎"],
+			"safetyTitle": "迄今为止如期履约",
+			"safetyUrl": "https://m.iqianjin.com/app/security/index.jsp"
+		},
+		"stepPlanBuyDesc": "立即出借",
+		"stepPlanBuyUrl": "iqianjin://LoginOrRegisterActivity?iqjRouterParams=%7B%22isLogin%22%3Atrue%7D",
+		"stepPlanDetailUrl": "iqianjin://productSPDetail?iqjRouterParams=%7B%22planId%22%3A10517%2C%22sid%22%3A%22118d708d7b%22%7D",
+		"stepPlanExplain": {
+			"amountLeftExplain": "当前剩余金额",
+			"baseRateExplain": "初始年化",
+			"exitExplain": "随时可申请，预计转出日期为下次调息日",
+			"exitRateExplain": "每周可转",
+			"exitTitle": "转出方式",
+			"explainList": ["每周调息", "每周可转让"],
+			"extraRateExplain": "每周预期可加",
+			"maxRateExplain": "最高可达",
+			"rateExplain": "预期年化结算利率",
+			"rateNoticeDesc": "预期年化结算利率=基础债权利率(9%~13%)—服务费率(4%~8%)。预计起息日为出借当日的下一个工作日。",
+			"rateNoticeTitle": "以上利率均为预期年化结算利率，出借回报率以实际出借回报为准"
+		},
+		"stepPlanInfo": {
+			"amountLeft": 85000.0,
+			"baseRate": 5.0,
+			"issue": "SU18U05A",
+			"maxRate": 8.6,
+			"minInvestAmount": 1000,
+			"openTime": 1533398400000,
+			"perUserBuyLimit": 50000,
+			"planId": 10517,
+			"sid": "118d708d7b",
+			"status": 2,
+			"stepInDay": 7,
+			"stepRate": 0.1
+		}
+	},
+	"code": 1,
+	"mt": "res",
+	"pid": "865587021861620",
+	"seq": "652c4e2b-c424-4546-8038-4a352111e74c",
+	"status": 903,
+	"token": "E2D1512365F6BE8B44F7712AC81F53A43AE2FADAD6B2D14A4C3051DCFB7636A31FD6EC6DD0740922D6A6248E3D16F337G09A7C71E0A31A1FB1A0655370C7BC90D"
+}

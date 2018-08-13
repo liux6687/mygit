@@ -1,0 +1,8 @@
+// 定义宽高混合
+@mixin wh($w, $h) {
+	width: $w;
+	height: $h;
+}
+
+$color: #F6F4F4;
+

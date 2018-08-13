@@ -1,0 +1,60 @@
+{
+	"body": {
+		"list": [{
+			"colorValue": "254,98,70",
+			"productAmount": 101.39,
+			"productName": "零存宝+"
+		}, {
+			"colorValue": "255,228,0",
+			"productAmount": 1004.2,
+			"productName": "整存宝+"
+		}, {
+			"colorValue": "205,220,57",
+			"productAmount": 0.00,
+			"productName": "散标"
+		}, {
+			"colorValue": "46,204,113",
+			"popupMessage": {
+				"buttonList": [{
+					"title": "我知道了",
+					"url": ""
+				}]
+			},
+			"productAmount": 0.00,
+			"productName": "预约中"
+		}, {
+			"colorValue": "56,169,245",
+			"productAmount": 0.00,
+			"productName": "提现中"
+		}, {
+			"colorValue": "96,125,139",
+			"productAmount": 0.00,
+			"productName": "账户自由金额"
+		}, {
+			"colorValue": "156,187,197",
+			"popupMessage": {
+				"buttonList": [{
+					"title": "了解什么是还款",
+					"url": "http://m.iqianjin.com/aop/36/index.html"
+				}, {
+					"title": "我知道了",
+					"url": ""
+				}]
+			},
+			"productAmount": 0.00,
+			"productName": "还款清算中",
+			"tip": "还款资金银行清算中，暂不可用于出借散标，预计于下个工作日内完成\n清算期间可申请出借零存宝+、整存宝+及7天宝，当清算完成后将立即开始为您匹配标的，让资金少一些等待"
+		}, {
+			"colorValue": "158,158,158",
+			"productAmount": 0.00,
+			"productName": "其他"
+		}],
+		"totalAssets": 1105.59
+	},
+	"code": 1,
+	"mt": "res",
+	"pid": "865873037474388",
+	"seq": "30bc9791-da75-4b2a-bf39-56fca831c735",
+	"status": 904,
+	"token": "672A09D711FEAC6D048263EDC51EE316E3F86AAB3D3B08D0B294FCD23AF50C656ECBCC76679AA42FE1E1D37C794E2B4925270EC3F11D8411A33A1B6FB89A6F9FG9557F2585F47BC8F0C17AC1BCD1ED9DF"
+}

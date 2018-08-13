@@ -1,0 +1,14 @@
+/*
+* @Author: limo
+* @Date:   2018-08-05 13:57:29
+* @Last Modified by:   limo
+* @Last Modified time: 2018-08-06 12:17:51
+*/
+$wordColor: #FF7D00;
+@mixin clearfix() {
+	&:after {
+		content: '';
+		display: block;
+		clear: both;
+	}
+}

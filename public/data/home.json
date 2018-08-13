@@ -1,0 +1,253 @@
+{
+	"body": {
+		"memo": "已登录-老客",
+		"intervalTime": 5,
+		"videoTip": "当前为非wifi环境，继续播放请注意流量消耗",
+		"banner": [{
+			"begTime": "2018-08-03 00:00:00",
+			"endTime": "2018-08-17 23:59:59",
+			"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201808/02195759v2qv.jpg",
+			"newsType": "0",
+			"order": "1",
+			"shareContent": "15000元京东E卡、8000元石油卡、戴森加湿器，多款好礼手慢无，速来！",
+			"shareIcon": "http://news.iqianjin.com/news/u/cms/www/201808/021958067q8z.jpg",
+			"shareTitle": "参与整存宝+服务计划出借，赢走15000元京东E卡！",
+			"shareUrl": "https://m.iqianjin.com/activity/20180722.jsp?utmSource=z1",
+			"title": "新增风云擂台赛",
+			"url": "https://m.iqianjin.com/activity/20180722.jsp?utmSource=z1"
+		}, {
+			"begTime": "2018-07-20 00:00:00",
+			"endTime": "2018-08-07 00:00:00",
+			"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/19232438s08u.png",
+			"newsType": "0",
+			"order": "2",
+			"shareContent": "三重好礼，只为你！",
+			"shareIcon": "http://news.iqianjin.com/news/u/cms/www/201807/192325158yu9.png",
+			"shareTitle": "天天享加息，出借满额可抽奖，100%中奖！5000元京东卡、999元普通红包好礼任",
+			"shareUrl": "https://m.iqianjin.com/aop/104/index.html",
+			"title": "盛夏嘉年华100%中奖",
+			"url": "https://m.iqianjin.com/aop/104/index.html"
+		}, {
+			"begTime": "2018-08-01 12:40:40",
+			"endTime": "2018-08-18 00:00:00",
+			"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/312039401gqj.jpg",
+			"newsType": "0",
+			"order": "3",
+			"shareContent": "还能使用红包哦，另外站内活动！",
+			"shareIcon": "http://news.iqianjin.com/news/u/cms/www/201807/31203929v6fj.jpg",
+			"shareTitle": "加息不等待，续期享更多！10%预期年化利率等你来！",
+			"shareUrl": "https://m.iqianjin.com/h5/act/continue/index.html",
+			"title": "加息不等待续期享好礼",
+			"url": "https://m.iqianjin.com/h5/act/continue/index.html"
+		}, {
+			"begTime": "",
+			"endTime": "",
+			"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/31184154yxv3.jpg",
+			"newsType": "0",
+			"order": "3",
+			"shareContent": "在前段时间，我们连续开展了几场爱钱进CEO“面对面”的活动，在活动中爱钱进CEO蔡园竹，凡普金科联合创始人&爱钱进总裁杨帆，回答了很多投友们非常关心的问题，那么猪管今天就应大家的要求，把大家多次提问的问题，整理出来和大家分享",
+			"shareIcon": "http://news.iqianjin.com/news/u/cms/www/201807/24194912yfvt.png",
+			"shareTitle": "CEO“面对面”直播回顾，你关心的问题，CEO是这样回答的",
+			"shareUrl": "https://m.iqianjin.com/user/bbsync/?redirect=https://bbs.iqianjin.com/forum.php?mod=viewthread&tid=775153",
+			"title": "CEO“面对面”直播回顾，你关心的问题，CEO是这样回答的",
+			"url": "https://m.iqianjin.com/user/bbsync/?redirect=https://bbs.iqianjin.com/forum.php?mod=viewthread&tid=775153"
+		}, {
+			"begTime": "2018-07-19 00:00:05",
+			"endTime": "2018-08-15 23:55:25",
+			"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/18180947ji3g.jpg",
+			"newsType": "0",
+			"order": "5",
+			"shareContent": "",
+			"shareIcon": "",
+			"shareTitle": "",
+			"shareUrl": "",
+			"title": "送好友得100元，你也得100元",
+			"url": "https://m.iqianjin.com/h5/act/referral_100/index.html?entrance=banner_old"
+		}, {
+			"begTime": "",
+			"endTime": "",
+			"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/13233404hyey.jpg",
+			"newsType": "0",
+			"order": "6",
+			"shareContent": "近日，由中国互联网协会主办的2018中国互联网大会在北京国家会议中心拉开帷幕。此次大会邀请到了包括阿里巴巴、腾讯、网宿科技、爱钱进在内的国内外近300家互联网企业齐聚一堂。",
+			"shareIcon": "http://news.iqianjin.com/news/u/cms/www/201807/13233429a876.png",
+			"shareTitle": "爱钱进实力发声互联网大会，优质平台展风貌获主流媒体肯定",
+			"shareUrl": "https://m.iqianjin.com/mediamznews/37525.html",
+			"title": "爱钱进实力发声互联网大会，优质平台展风貌获主流媒体肯定",
+			"url": "https://m.iqianjin.com/mediamznews/37525.html"
+		}],
+		"productCode": "2003",
+		"product": {
+			"list": [{
+				"addInterest": 4.0,
+				"addInterestDesc": "4.00",
+				"buttonStatus": 1,
+				"buttonTitle": "立即出借",
+				"period": 3,
+				"periodTitle1": "锁定期 ",
+				"periodTitle2": "3",
+				"periodTitle3": "个月",
+				"planId": 10521,
+				"productCode": 2003,
+				"productShowName": "整存宝+3个月可转",
+				"productType": 5,
+				"profitTitle1": "万元预期出借回报",
+				"profitTitle2": "84.03",
+				"profitTitle3": "元/月",
+				"sid": "283c55b21c",
+				"startInterest": 6.0,
+				"tipInterest": "<html><body><font color='#b7b7be'>预期年化结算利率</font></body></html>",
+				"tipMsg": "首投加息",
+				"title": "推荐产品"
+			}]
+		},
+		"notice": {
+			"title": "平台公告",
+			"list": [{
+				"begTime": "",
+				"endTime": "",
+				"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/13210822tg5d.png",
+				"newsType": "0",
+				"order": "1",
+				"shareContent": "",
+				"shareIcon": "",
+				"shareTitle": "",
+				"shareUrl": "",
+				"title": " 爱钱进注册实缴资本金增至5亿的公告",
+				"url": "https://m.iqianjin.com/service/noticedetail.jsp?idx=37529"
+			}, {
+				"begTime": "",
+				"endTime": "",
+				"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/16171142timx.png",
+				"newsType": "0",
+				"order": "2",
+				"shareContent": "",
+				"shareIcon": "",
+				"shareTitle": "",
+				"shareUrl": "",
+				"title": "限时加息活动延期公告",
+				"url": "https://m.iqianjin.com/service/noticedetail.jsp?idx=37559"
+			}, {
+				"begTime": "",
+				"endTime": "",
+				"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/24101256j5mw.png",
+				"newsType": "0",
+				"order": "3",
+				"shareContent": "",
+				"shareIcon": "",
+				"shareTitle": "",
+				"shareUrl": "",
+				"title": "“你100，我100”邀请好友活动延期通知",
+				"url": "https://m.iqianjin.com/service/noticedetail.jsp?idx=37678"
+			}, {
+				"begTime": "",
+				"endTime": "",
+				"imgUrl": "http://news.iqianjin.com/news/u/cms/www/201807/24153637r3p0.png",
+				"newsType": "0",
+				"order": "4",
+				"shareContent": "",
+				"shareIcon": "",
+				"shareTitle": "",
+				"shareUrl": "",
+				"title": "关于网银充值渠道升级维护的通知",
+				"url": "https://m.iqianjin.com/service/noticedetail.jsp?idx=37690"
+			}]
+		},
+		"use": {
+			"title": "千万人都在用",
+			"url": "https://m.iqianjin.com/about/disclosure.jsp",
+			"list": [{
+				"index": 0,
+				"msg": "累计服务用户数",
+				"data": "1418",
+				"unit": "万人",
+				"source": "14,188,451",
+				"title": "平台稳定运营4年 累计服务用户数（人）"
+			}, {
+				"index": 1,
+				"msg": "累计为用户赚取",
+				"data": "42.5",
+				"unit": "亿元",
+				"source": "4,258,059,414",
+				"title": "平台稳定运营4年 累计为用户赚取（元）"
+			}, {
+				"index": 2,
+				"msg": "累计撮合交易额",
+				"data": "1431",
+				"unit": "亿元",
+				"source": "143,174,015,574",
+				"title": "平台稳定运营4年 累计撮合交易额（元）"
+			}]
+		},
+		"platform": {
+			"title": "靠谱的互联网金融平台",
+			"url": "https://m.iqianjin.com/h5/brands.html?_v=1533439066026",
+			"leftList": {
+				"top": {
+					"imgUrl": "https://v1.iqianjin.com/imgs/app7home/6-1huaxia_bank.png",
+					"title": "华夏银行资金存管",
+					"url": "https://m.iqianjin.com/app/security/index.jsp"
+				},
+				"list": [{
+					"title": "等保三级备案证明"
+				}, {
+					"title": "平台5亿元注册资本"
+				}]
+			},
+			"rightList": {
+				"top": {
+					"imgUrl": "https://v1.iqianjin.com/imgs/app7home/6-2wangdaizhijia.png",
+					"title": "网贷之家TOP10",
+					"url": "https://m.iqianjin.com/app/security/index.jsp?page=5"
+				},
+				"list": [{
+					"title": "中国互联网金融协会成员"
+				}, {
+					"title": "企业AAA信用评级"
+				}]
+			}
+		},
+		"transparent": {
+			"title": "平台真实透明",
+			"url": "https://m.iqianjin.com/app/security/index.jsp?page=3",
+			"list": [{
+				"imgUrl": "https://v1.iqianjin.com/imgs/app7home/7-1borrower.png",
+				"title": "真实借款人",
+				"url": "https://m.iqianjin.com/app/security/index.jsp?page=4"
+			}, {
+				"imgUrl": "https://v1.iqianjin.com/imgs/app7home/7-2transpareency.png",
+				"title": "信息透明",
+				"url": "https://m.iqianjin.com/app/security/index.jsp?page=3"
+			}, {
+				"imgUrl": "https://v1.iqianjin.com/imgs/app7home/7-3compliance.png",
+				"title": "遵守监管",
+				"url": "https://m.iqianjin.com/app/security/index.jsp?page=1"
+			}]
+		},
+		"bottom": {
+			"list": [{
+				"imgUrl": "https://v1.iqianjin.com/imgs/app7home/8-1compliace.png",
+				"title": "迄今为止 如期履约",
+				"url": "https://m.iqianjin.com/app/security/index.jsp"
+			}]
+		},
+		"znxBoot": 1,
+		"serviceNotice": [{
+			"content": "凡普金科五周年董事长张辉发全员内部信",
+			"count": 2,
+			"forwardUrl": "http://m.iqianjin.com/mediamznews/37775.html?from=zhanneixin",
+			"iconUrl": "http://m.iqianjin.com/mimages/mobile/app_notice/default_head_image.png",
+			"id": 998478,
+			"messageDate": "08.03 15:01",
+			"platformCode": "goldcompass",
+			"title": "系统消息",
+			"urlType": 8
+		}],
+		"serviceNoticeType": "1"
+	},
+	"code": 1,
+	"mt": "res",
+	"pid": "865873037474388",
+	"seq": "c39d6431-5e8d-47a0-be8b-6b63bf362f83",
+	"token": "D6D6E6F25F977BB4E43CE66FF456477DD4EA0DE49DDE27A1C60496B6EB7C0CAA6ECBCC76679AA42FE1E1D37C794E2B4925270EC3F11D8411A33A1B6FB89A6F9FG4094CB6353DDA5196E81B58E366C45D0"
+}

@@ -1,0 +1,46 @@
+
+
+
+$homeColor: #FF7500;
+$arrowColor: #DBDBDE;
+
+//定义箭头混合
+@mixin arrow($w: 10px, $c: #000, $dir: top) {
+	width: 0px;
+	font-size: 0px;
+	border: $w solid transparent;
+	border-#{$dir}-color: $c;
+}
+//定义类
+ %tipsheader {
+	padding: 20px 10px 0px;
+	background-color: #fff;
+	height: 40px;
+	position: relative;
+	.tipsleft {
+		float: left;
+		font-size: 18px;
+		padding-left: 5px;
+		font-weight: bold;
+		border-left: 2px solid orange;
+		line-height: 1;
+	}
+	.tipsarrow {
+		float: right;
+		@include arrow(10px, $arrowColor, left);
+		position: relative;
+		top: 0px;
+		right: 0px;
+		.white {
+			@include arrow(10px, white, left);
+			position: absolute;
+			top: -10px;
+				right: -7px;
+		}
+	}
+
+}
+
+
+
+

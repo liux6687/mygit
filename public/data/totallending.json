@@ -1,0 +1,43 @@
+{
+	"body": {
+		"currentAssets": "0.00",
+		"currentInvest": "0.00",
+		"currentProfit": "0.00",
+		"demandAssets": "0.00",
+		"demandInvest": 100.0,
+		"demandProfit": 1.39,
+		"loanInvest": "0.00",
+		"loanProfit": "0.00",
+		"planAssets": 1004.2,
+		"planInvest": 1000.0,
+		"planLastProfit": "0.20元",
+		"planProfit": 4.2,
+		"productList": [{
+			"investAmount": 100.0,
+			"productName": "零存宝+",
+			"profitAmount": 1.39
+		}, {
+			"investAmount": 1000.0,
+			"productName": "整存宝+",
+			"profitAmount": 4.2
+		}, {
+			"investAmount": 0.0,
+			"productName": "散标",
+			"profitAmount": 0.0
+		}],
+		"regularAssets": "0.00",
+		"regularInvest": "0.00",
+		"regularProfit": "0.00",
+		"stepPlanAssets": "0.00",
+		"stepPlanInvest": "0.00",
+		"stepPlanProfit": "0.00",
+		"totalInvest": 1000.0,
+		"totalProfit": 4.2
+	},
+	"code": 1,
+	"mt": "res",
+	"pid": "865873037474388",
+	"seq": "e11b2afe-ca5e-47ce-a965-38d30f41d1ac",
+	"status": 904,
+	"token": "F2529090784608B87148301DB1FCD8BA33259D0030F7B4F7629E7505BF44945E6ECBCC76679AA42FE1E1D37C794E2B4925270EC3F11D8411A33A1B6FB89A6F9FG8DEF45AF0C23BB8E17DB7D16A0254A67"
+}
